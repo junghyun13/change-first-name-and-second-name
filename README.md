@@ -45,4 +45,4 @@ int check(char *s){
 	}
 }
 # input--> LEE JUNGHYUN
-# result--> junghyun lee
+# result--> junghyun, lee
